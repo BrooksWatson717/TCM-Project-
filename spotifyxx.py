@@ -93,13 +93,6 @@ while True:
         webbrowser.open(artist['images'][0]['url'])
         artistID = artist['id']
         print(artistID)
-        print('''
-
-
-
-
-
-        ''')
 
         #Album and track Details
         trackURIs = []
